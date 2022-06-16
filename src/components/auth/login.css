@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(22, 73, 95);
+}
+
+.App{
+    background-image: linear-gradient(to right, #d7f4df, #bce9d3, #9edeca, #7dd3c5, #56c7c2);
+    text-align: center;
+}
+
+.Form{
+    color: aliceblue;
+    padding: 25px;
+    background-color: black;
+    margin-left: 32em;
+    margin-right: 30em;
+    margin-top: 10em;
+}
+
+.btn{
+    background-color: #56c7c2;
+}
